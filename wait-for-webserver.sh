@@ -9,4 +9,3 @@ done
   
 >&2 echo "Webservice is up - continuing"
 
-chmod +x wait-for-webserver.sh
